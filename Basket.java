@@ -67,7 +67,7 @@ public class Basket {
         int tmp2 = 0;
         int[] tmp3 = new int[10];
         for(int tmp:tmp3){
-            tmp2++;
+            tmp2+=2.5+tmp2++;
         }
     }
 
